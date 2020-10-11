@@ -22,7 +22,9 @@
 ---
 
  <!-- waka-box start -->
-
- <a href="https://gist.github.com/AprilViolet/fa32423d852887fd0d4996432c4c6849" target="_blank">📊 Weekly development breakdown</a>
-
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/fa32423d852887fd0d4996432c4c6849" target="_blank">📊 Weekly development breakdown</a>
+```text
+Java 🕓 19m ████████████████████████████████████100.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->

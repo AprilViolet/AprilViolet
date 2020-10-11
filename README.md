@@ -21,7 +21,7 @@
 ---
 
  <!-- waka-box start -->
-### <a href="https://gist.github.com/fa32423d852887fd0d4996432c4c6849" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/fa32423d852887fd0d4996432c4c6849" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Java 🕓 19m ████████████████████████████████████100.0%
 ```

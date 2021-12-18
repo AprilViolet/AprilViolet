@@ -10,6 +10,11 @@
 
 - 🌱 I’m currently Focusing on **Java**
 - :orange_book: I’m currently learning **Kotlin、Spring**
+- 🧐 Interested in full stack. Recent focus on backend.
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -21,7 +26,7 @@
 
 ### :memo:Weekly Development & Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
 
 ---
 

@@ -26,9 +26,11 @@
 
 ### :memo:Weekly Development & Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" /></p>
+
+<br/>
 
 ---
 

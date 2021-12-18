@@ -20,12 +20,11 @@
 
 ### :memo:Weekly Development & Languages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=AprilViolet&layout=compact&theme=radical" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AprilViolet&theme=tokyonight&layout=compact" /></p>
 
 ---
 
 ### 🧐Contribution
 
 [![AprilViolet](https://activity-graph.herokuapp.com/graph?username=AprilViolet&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

@@ -9,7 +9,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AprilViolet&theme=tokyonight&count_private=true&show_icons=true&show_owner=true" />
 
 - 🌱 I’m currently Focusing on **Java**
-- :orange_book: I’m currently learning **Kotlin、Spring**
+- :orange_book: I’m currently learning **Kotlin、Spring、React**
 - 🧐 Interested in full stack. Recent focus on backend.
 <br/>
 <br/>
@@ -33,4 +33,4 @@
 
 ### 🧐Contribution
 
-[![AprilViolet](https://activity-graph.herokuapp.com/graph?username=AprilViolet&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AprilViolet](https://github-readme-activity-graph.cyclic.app/graph?username=AprilViolet&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

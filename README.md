@@ -14,7 +14,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 ---
 
@@ -34,4 +33,4 @@
 
 ### 🧐Contribution
 
-[![AprilViolet](https://github-readme-activity-graph.cyclic.app/graph?username=AprilViolet&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AprilViolet](https://github-readme-activity-graph.vercel.app/graph?username=AprilViolet&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
